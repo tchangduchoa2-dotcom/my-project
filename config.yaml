@@ -1,0 +1,48 @@
+cookie:
+  expiry_days: 30
+  key: secret_key_123
+  name: auth_cookie
+credentials:
+  usernames:
+    admin:
+      email: duchoa@gmail.com
+      first_name: "\u5F35\u5FB7\u83EF"
+      last_name: TCHANG
+      logged_in: false
+      password: $2b$12$SUaIACg3DLioCnipdLbMtuj./EOj8hY8TqDnnXBwmXp2HbMxIjhyG
+      password_hint: admin
+      roles: null
+    duchoa1:
+      email: tchangduchoa@gmail.com
+      first_name: Tchang Duc
+      last_name: Hoa
+      logged_in: false
+      password: $2b$12$9QLtaNjUsXvqLK7vNbUNY.Y0tMeQMT9kwTPstU1oHgbu2C9Vu8ai6
+      password_hint: so thu tu
+      roles: null
+    duchoa123:
+      email: tchangduchoa1@gmail.com
+      first_name: "\u5F35\u5FB7\u83EF"
+      last_name: TCHANG
+      logged_in: false
+      password: $2b$12$7iYI2ogRam2rOGFpMV13R.zRMA5SLzOoBbiFi85B.Hp3FG0fusTgS
+      password_hint: '123456'
+      roles: null
+    myvy123:
+      email: myvyluu@gmail.com
+      first_name: Luu My
+      last_name: Vy
+      logged_in: false
+      password: $2b$12$cKkHsgUVdM.aDrW4u/jXuefRhRjlBtZ1JdsMiBNZ5wWqS4SBccbO2
+      password_hint: Vyyy
+      roles: null
+    vy123456:
+      email: vymyluu@gmail.com
+      first_name: Luu My
+      last_name: Vy
+      logged_in: false
+      password: $2b$12$347ee598Qyqk0efTG2862.cse.c5jNPcMEDxSwa5fyAbF6xXHRqqC
+      password_hint: Vyyy
+      roles: null
+preauthorized:
+  emails: []
